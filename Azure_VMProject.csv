@@ -1,0 +1,9 @@
+﻿NAME,TYPE,LOCATION,RESOURCE GROUP,SUBSCRIPTION,LAST ACCESSED
+"VM-VMP","Virtual machine","East US","RG-VMP","Azure subscription 1","5 minutes ago"
+"VMIP-VMP","Public IP address","East US","RG-VMP","Azure subscription 1","8 minutes ago"
+"VNET-VMP","Virtual network","East US","RG-VMP","Azure subscription 1","10 minutes ago"
+"vm-vmp851_z3","Network interface","East US","RG-VMP","Azure subscription 1","12 minutes ago"
+"VM-VMP-ip","Public IP address","East US","RG-VMP","Azure subscription 1","1 hour ago"
+"RG-VMP","Resource group","","RG-VMP","Azure subscription 1","1 hour ago"
+"BASTION-VMP","Bastion","East US","RG-VMP","Azure subscription 1","1 hour ago"
+"NSG-VMP","Network security group","","RG-VMP","Azure subscription 1","2 hours ago"

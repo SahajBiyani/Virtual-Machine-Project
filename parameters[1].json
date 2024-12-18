@@ -1,0 +1,33 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "virtualMachines_VM_VMP_name": {
+            "value": null
+        },
+        "bastionHosts_BASTION_VMP_name": {
+            "value": null
+        },
+        "virtualNetworks_VNET_VMP_name": {
+            "value": null
+        },
+        "publicIPAddresses_VMIP_VMP_name": {
+            "value": null
+        },
+        "sshPublicKeys_VM_VMP_SSHkey_name": {
+            "value": null
+        },
+        "publicIPAddresses_VM_VMP_ip_name": {
+            "value": null
+        },
+        "networkSecurityGroups_NSG_VMP_name": {
+            "value": null
+        },
+        "networkInterfaces_vm_vmp851_z3_name": {
+            "value": null
+        },
+        "publicIPAddresses_BASTION_VMP_ip_name": {
+            "value": null
+        }
+    }
+}
