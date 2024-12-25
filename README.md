@@ -1,5 +1,6 @@
 # Virtual-Machine-Project
 
+Walkthrough Video: https://www.youtube.com/watch?v=KKWnRdr6NqQ
 {
     "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
     "contentVersion": "1.0.0.0",
